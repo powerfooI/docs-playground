@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs_website=self.webpackChunkmy_docs_website||[]).push([[376],{93005:s=>{s.exports=JSON.parse('{"label":"User Case","permalink":"/docs-playground/blog/tags/user-case","allTagsPath":"/docs-playground/blog/tags","count":5,"unlisted":false}')}}]);

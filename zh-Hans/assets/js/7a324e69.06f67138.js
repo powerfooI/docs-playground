@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs_website=self.webpackChunkmy_docs_website||[]).push([[8846],{23653:s=>{s.exports=JSON.parse('{"permalink":"/docs-playground/zh-Hans/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
